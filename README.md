@@ -3,7 +3,7 @@ This project involves building a Credit Scoring Model for consumer lending in th
  
 # Exploratory Data Analysis (EDA)
 
-##Perform the following steps for Exploratory Data Analysis on the dataset:
+## Perform the following steps for Exploratory Data Analysis on the dataset:
 
  **Explore the Dataset Structure**:
    - Use the `.info()` method to examine the dataset's structure, including data types and non-null counts.
