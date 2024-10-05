@@ -1,3 +1,5 @@
 venv/
 .vscode/
 UsersUserDownloadsfilmDVC_STORAGE_2/
+__pycache__/
+.ipynb_checkpoints/
